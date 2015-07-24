@@ -1,0 +1,26 @@
+h1, h2, h3, h4, h5, h6{
+  font-family: 'Raleway', sans-serif;
+}
+
+p, div{
+  font-family: 'Raleway', sans-serif;
+}
+
+.signup-box{
+  display: block;
+  background-color: #ecf0f1;
+  text-align: center;
+}
+
+.form-group input{
+  border-style: none;
+}
+
+.personal-info input{
+  width: 90%;
+  font-size: 24px;
+}
+
+.btn-login{
+  font-size: 24px;
+}
